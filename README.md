@@ -15,5 +15,15 @@ The dashboard offers a comprehensive financial overview at a glance:
 
 The dashboard retrieves information from the "Full Data" sheet within this Excel file. This sheet contains the detailed records of monthly income and expenses, categorized accordingly. Accuracy in this sheet is crucial. ✅
 
+## 📄 Workbook Contents 📄
+
+* *Full Data:* Pivot table derived from raw data (Sheet: Data).
+* *Data:* Contains the raw, detailed monthly income ➕ and expenses ➖.
+* *Dashboard:* The main sheet with visual charts 📊 and the month filter.
+* *Income Streams:* Pivot table powering the Income Streams column chart 📈.
+* *Savings Percentage:* Worksheet underlying the Savings Percentage donut chart 💡.
+* *Expenses Pie Chart:* Pivot table driving the "Where is our expense going" pie chart 🍕.
+* *Income:* Data source for the income table below the charts 👍.
+* *Expenses:* Data source for the expenses table below the charts 👎.
 
 This dashboard aims to provide valuable insights into annual budgeting. 🎉 Happy budgeting! 😊
