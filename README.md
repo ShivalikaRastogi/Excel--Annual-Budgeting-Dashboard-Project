@@ -1,4 +1,4 @@
-# 📊 Annual Budgeting Dashboard - Financial Snapshot 📈
+# 📊 Annual Budgeting Dashboard 📈
 
 This Microsoft Excel dashboard provides a clear and visual way to understand annual budgeting data. It is designed to track income sources 💸, savings 💰, and expenses 🧾.
 
